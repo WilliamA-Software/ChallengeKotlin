@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.bumptech.glide.Glide
-import com.example.challengekotlin.MainActivity
 import com.example.challengekotlin.R
 import com.example.challengekotlin.core.Constants
 import com.example.challengekotlin.data.model.Genre
