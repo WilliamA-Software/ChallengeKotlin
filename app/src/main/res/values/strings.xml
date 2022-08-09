@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ChallengeKotlin</string>
+    <string name="et_search_movie">Search movie</string>
+    <string name="image_movie">Image movie</string>
+    <string name="tv_tag_viewed">Viewed</string>
+    <string name="tv_title_movie">Title movie</string>
+    <string name="message_error_api">We can not read API</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Titles Toolbar -->
+    <string name="title_movies">Movies</string>
+    <string name="title_details">Details</string>
+
+    <!--  Movies -->
+    <string name="title_movie">TITLE MOVIE</string>
+
+    <!--  Details -->
+    <string name="movie_details_original_title">Original title</string>
+    <string name="movie_details_id">ID Movie</string>
+    <string name="movie_details_original_language">Original language</string>
+    <string name="movie_details_release_date">Release date</string>
+    <string name="movie_details_popularity">Popularity</string>
+    <string name="movie_details_vote_average">Vote average</string>
+    <string name="movie_details_vote_genres">Genres</string>
+
+    <!-- Button -->
+    <string name="btn_back">Back</string>
+
+</resources>
